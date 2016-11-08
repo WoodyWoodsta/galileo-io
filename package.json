@@ -58,7 +58,7 @@
     "sinon": "^1.17.6"
   },
   "optionalDependencies": {
-    "mraa": "^1.5.1"
+    "mraa": "^1.4"
   },
   "scripts": {
     "test": "grunt"
